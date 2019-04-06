@@ -3,7 +3,7 @@
 # Web Development basic template with gulp and npm package manager
 [![built with npm](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png)](https://www.npmjs.com/
 )
-[![built with Gulp](https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg](https://gulpjs.com/)
+[![built with Gulp](https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg)](https://gulpjs.com/)
 [![built with Sass](https://cdn-images-1.medium.com/max/1600/1*HFYKWq92BcXJIdata7d-JQ.png)](https://sass-lang.com/)
 
 A simple basic plain skeleton/structure for plain web app development with gulp set-up.
