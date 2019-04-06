@@ -1,10 +1,9 @@
-<img src="https://res.cloudinary.com/teepublic/image/private/s--g0T2m-KV--/t_Preview/b_rgb:ffffff,c_limit,f_auto,h_313,q_90,w_313/v1525445247/production/designs/2654266_0" width="150" align="right">
+<img src="https://res.cloudinary.com/teepublic/image/private/s--g0T2m-KV--/t_Preview/b_rgb:ffffff,c_limit,f_auto,h_313,q_90,w_313/v1525445247/production/designs/2654266_0" width="80" align="right">
 
 # Web Development basic template with gulp and npm package manager
-[![built with npm](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png)](https://www.npmjs.com/
-)
-[![built with Gulp](https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg)](https://gulpjs.com/)
-[![built with Sass](https://cdn-images-1.medium.com/max/1600/1*HFYKWq92BcXJIdata7d-JQ.png)](https://sass-lang.com/)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" width="150">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg" width="150">
+<img src="https://cdn-images-1.medium.com/max/1600/1*HFYKWq92BcXJIdata7d-JQ.png" width="150">
 
 A simple basic plain skeleton/structure for plain web app development with gulp set-up.
 
